@@ -1,7 +1,6 @@
 # Soylent Data Science Project 
-## Aggregating Bikeshare Data to Compare Ideal Distribution Locations
-
-## Team Soylent: Marissa Exelby, Leon Long, Christie Gan, Doreen Nguyen
+- Aggregating Bikeshare Data to Compare Ideal Distribution Locations 
+- Team Soylent: Marissa Exelby, Leon Long, Christie Gan, Doreen Nguyen
 
 ## Introduction
 As road congestion continues to be prevalent within major cities in the U.S, bikeshares
