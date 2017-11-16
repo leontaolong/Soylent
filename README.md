@@ -1,12 +1,9 @@
-# Soylent Data Science Project
-
-## Aggregating Bikeshare Data to Compare Ideal
-Distribution Locations
+# Soylent Data Science Project 
+## Aggregating Bikeshare Data to Compare Ideal Distribution Locations
 
 ## Team Soylent: Marissa Exelby, Leon Long, Christie Gan, Doreen Nguyen
 
-## Introduction/Research Question
-
+## Introduction
 As road congestion continues to be prevalent within major cities in the U.S, bikeshares
 are an eco-friendly solution that conveniently allow both tourists and locals to get to their
 designated destination at a low price. This take away the hassle of ownership and responsibility
@@ -16,8 +13,7 @@ environment. The rising popularity in the bikeshare market is due to incorporati
 generated from each ride, we are able to reveal overall trends and patterns that may otherwise
 be lost within a large dataset.
 
-## Research Question: 
-
+## Research Question 
 The question we are asking is how does bikesharing facilitate the use of
 public transportation in New York City? We want to find out if there is high bikeshare station use
 near NYC subway stations. With answers to these questions we can improve upon the current
@@ -26,7 +22,6 @@ research could be valuable for the stationless bike companies so they know in wh
 initially place and then redistribute bikes.
 
 ## Previous Work
-
 The topic we are exploring is bike share programs in cities across the world and what
 contributes to their success. Both stationed and stationless bike share programs have had
 success depending on their location, so we are exploring what contributes to this. From the
@@ -73,7 +68,6 @@ answer the question of which stations are most frequently visited in an aim to o
 location and redistribution of public bikes.
 
 ## Motivation
-
 First, we decided to look at this field partially because of the rising popularity of bike
 sharing over the past a couple of months. The trend is current and as we researched about the
 previous work, and while there is research done on this topic, we feel we could fill the gap of
@@ -121,7 +115,6 @@ longitude of the data. This data can be exported as a CSV and cleaned, because a
 it contains many duplicates because some stations have many lines that stop there.
 
 ## Analysis
-
 Given the current data to be manipulated, we have two main goals that will allow us to
 extract conclusive data. First, visually displaying the data by plotting the route taken from station
 to station during times of the day. With data extending over the course of several years,
